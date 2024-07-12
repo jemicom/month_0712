@@ -5,3 +5,4 @@
 5. apple local 수정
 6. apple write
 7. apple git pull
+8. branch sweet 
